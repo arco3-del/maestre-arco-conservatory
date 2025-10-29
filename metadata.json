@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Maestre Arco: AI Music Conservatory",
+  "description": "The first digital conservatory driven by AI. Begin your musical journey with Maestre Arco, your personal AI instructor and guide.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
